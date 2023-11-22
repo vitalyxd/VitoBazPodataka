@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163165474571",
+    "project_id": "fir-1-13390",
+    "storage_bucket": "fir-1-13390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163165474571:android:4e13f69911dde4443f9c0e",
+        "android_client_info": {
+          "package_name": "hr.obrovac.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiVgQVN8zXCFR0SmGzemxUmIikuRAVQWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
